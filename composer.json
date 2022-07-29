@@ -36,7 +36,7 @@
     "symfony/translation": "^4.0",
     "symfony/yaml": "^4.0",
     "webfontkit/open-sans": "^1.0",
-    "yt-dlp/yt-dlp": "^2022.01.21",
+    "yt-dlp/yt-dlp": "^2022.07.29-master",
     "zonuexe/http-accept-language": "^0.4.1"
   },
   "require-dev": {
@@ -90,10 +90,10 @@
       "type": "package",
       "package": {
         "name": "yt-dlp/yt-dlp",
-        "version": "2022.01.21",
+        "version": "2022.07.29-master",
         "dist": {
           "type": "zip",
-          "url": "https://github.com/yt-dlp/yt-dlp/archive/refs/tags/2022.01.21.zip"
+          "url": "https://github.com/yt-dlp/yt-dlp/archive/master.zip"
         }
       }
     }

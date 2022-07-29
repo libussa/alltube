@@ -2433,10 +2433,10 @@
         },
         {
             "name": "yt-dlp/yt-dlp",
-            "version": "2021.11.10.1",
+            "version": "2022.07.29",
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/yt-dlp/yt-dlp/archive/refs/tags/2021.11.10.1.zip"
+                "url": "https://github.com/yt-dlp/yt-dlp/archive/master.zip"
             },
             "type": "library"
         },
